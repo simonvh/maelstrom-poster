@@ -78,5 +78,15 @@ $ conda install jupyter
 
 ```
 $ cd dir/where/you/cloned/this/repo/
-$ jupyter nnotebo
+$ jupyter notebook --notebook-dir=.
+```
 
+Click the notebook `maelstrom_poster.ipynb`.
+
+
+# Finally
+
+Please keep in mind that this is research software. 
+I do my best to make it usable, but maelstrom is not yet published and might be subject to change.
+That being said, feel free to use it! 
+Bug reports, questions, remarks and suggestions are welcome: s.vanheeringen@science.ru.nl.
