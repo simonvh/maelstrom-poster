@@ -49,12 +49,15 @@ Maelstrom will run a variety of algorithms to predict discriminative motifs, and
 
 ## Prerequisites
 
-Before running this tutorial, make sure that [GimmeMotifs](http://github.com/simonvh/gimmemotifs) is installed.
+GimmeMotifs (including Maelstrom) will only work on Linux and Mac OS X.
+Before running this tutorial, make sure that [GimmeMotifs](http://github.com/simonvh/gimmemotifs) is installed and that the genomes are indexed. 
+In addition you need [Jupyter Notebook](http://jupyter.org/).
+The most straightforward way is to use [Anaconda](https://www.continuum.io/downloads).
     
 ### Install the latest version of GimmeMotifs using Anaconda:
     
 ```
-$ conda install gimmemotifs=0.10.0b4 -c bioconda -c R
+$ conda install gimmemotifs=0.10.0b4 -c bioconda -c r
 ```
 
 ### Get the hg19 and mm10 genomes:
@@ -64,3 +67,16 @@ $ mkdir $HOME/genomes/
 $ gimme genome $HOME/genomes/ hg19
 $ gimme genome $HOME/genomes/ mm10
 ```
+
+### Install jupyter
+
+```
+$ conda install jupyter
+```
+
+## Run the notebook
+
+```
+$ cd dir/where/you/cloned/this/repo/
+$ jupyter nnotebo
+
