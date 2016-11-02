@@ -1,6 +1,6 @@
 # maelstrom - GimmeMotifs version 0.10.0b4
 # method: mwu with motif score
-# motif table: hg19.most_variable.out/motif.score.txt
+# motif table: hg19.most_variable.out/motif.score.txt.gz
 # activity values: BH-corrected -log10 Mann-Whitney U p-value
 	HSC	MPP	LMPP	CMP	GMP	MEP	Mono	CD4	CD8	Nkcell	Bcell	CLP	Ery
 AP-2_Average_26	-0.0	2.36744452523e-09	4.598292783	-0.0	0.107542835217	0.00907585719883	14.0864894924	6.24174019812e-10	0.235193478523	0.276198274556	0.195469691951	35.3973008435	54.6803545689

@@ -1,6 +1,6 @@
 # maelstrom - GimmeMotifs version 0.10.0b4
 # method: classic with motif count
-# motif table: hg19.most_variable.out/motif.count.txt
+# motif table: hg19.most_variable.out/motif.count.txt.gz
 # activity values: BH-corrected hypergeometric p-values
 	HSC	MPP	LMPP	CMP	GMP	MEP	Mono	CD4	CD8	Nkcell	Bcell	CLP	Ery
 AP-2_Average_26	0.0110171410877	0.00521203522587	0.605417903442	2.08209411101e-05	0.886684528273	0.0617993393445	3.66540754651	0.000884226074672	0.0210136491326	0.275554410171	0.00528513966248	1.90880168107	5.73972282407
