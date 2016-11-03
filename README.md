@@ -4,6 +4,8 @@
 
 The notebook in this repository will reproduce the results from my poster at the Ninth Annual RECOMB/ISCB Conference on Regulatory & Systems Genomics meeting ([RSG with DREAM 2016](https://www.iscb.org/recomb-regsysgen2016)).
 
+You can view the poster [here](https://github.com/simonvh/maelstrom-poster/raw/master/maelstrom_poster.pdf).
+
 See the notebook here: [maelstrom_poster.ipynb](maelstrom_poster.ipynb).
 
 
